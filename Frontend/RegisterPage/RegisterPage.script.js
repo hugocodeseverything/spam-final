@@ -9,7 +9,7 @@ function register() {
             }).then(res => res.json()).then(data => {
                 if (data.message) {
                     localStorage.setItem("user", username);
-                    alert("Registrasi berhasil. Silakan login."); window.location.href = "login.html";
+                    alert("Registrasi berhasil. Silakan login."); window.location.href = "../LoginPage/LoginPage.html";
                 } else {
                     document.getElementById("status").innerText = data.error;
                 }

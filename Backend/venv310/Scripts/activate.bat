@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\lenovo\Downloads\SpamDetectorFinalNBRFComplete\SpamDetectorFinalNBRFComplete\SpamDetectorFinal\SpamDetectorWebsite\Backend\venv310
+set VIRTUAL_ENV=C:\Users\lenovo\Downloads\FullSpamClassifier\Backend\venv310
 
 if not defined PROMPT set PROMPT=$P$G
 

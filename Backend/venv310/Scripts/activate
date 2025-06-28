@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\lenovo\Downloads\SpamDetectorFinalNBRFComplete\SpamDetectorFinalNBRFComplete\SpamDetectorFinal\SpamDetectorWebsite\Backend\venv310"
+VIRTUAL_ENV="C:\Users\lenovo\Downloads\FullSpamClassifier\Backend\venv310"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

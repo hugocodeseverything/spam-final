@@ -1,5 +1,46 @@
 {
   "anonymous": [
-    
+    {
+      "timestamp": "17/06/2025, 12:00:33",
+      "text": "Congratulations! You have won a $1000 Walmart gift card. Click here to claim now!",
+      "result": "Spam",
+      "confidence": 99.42
+    },
+    {
+      "timestamp": "09/06/2025, 14:42:29",
+      "text": "Please review the attached document and let me know your thoughts.",
+      "result": "Bukan Spam",
+      "confidence": 98.3
+    },
+    {
+      "timestamp": "09/06/2025, 14:42:21",
+      "text": "Hi John, are we still meeting at 2 PM tomorrow?",
+      "result": "Bukan Spam",
+      "confidence": 99.03
+    },
+    {
+      "timestamp": "09/06/2025, 14:42:12",
+      "text": "Dear user, your account has been suspended. Verify your information immediately.",
+      "result": "Spam",
+      "confidence": 59.43
+    },
+    {
+      "timestamp": "09/06/2025, 14:42:01",
+      "text": "Dear user, your account has been suspended. Verify your information immediately.",
+      "result": "Spam",
+      "confidence": 59.43
+    },
+    {
+      "timestamp": "09/06/2025, 14:41:50",
+      "text": "Get rich quick! Earn $5000 a week working from home. Sign up now.",
+      "result": "Bukan Spam",
+      "confidence": 94.88
+    },
+    {
+      "timestamp": "09/06/2025, 14:41:31",
+      "text": "Congratulations! You have won a $1000 Walmart gift card. Click here to claim now!",
+      "result": "Spam",
+      "confidence": 99.42
+    }
   ]
 }

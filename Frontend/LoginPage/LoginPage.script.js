@@ -8,7 +8,7 @@ function login() {
             }).then(res => res.json()).then(data => {
                 if (data.message) {
                     localStorage.setItem("user", username);
-                    window.location.href = "MainMenu.html";
+                    window.location.href = "../MainMenu/MainMenu.html";
                 } else {
                     document.getElementById("status").innerText = data.error;
                 }
